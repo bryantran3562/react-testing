@@ -1,0 +1,52 @@
+* Setting up:
+  ==========
+
+  MUI:
+  ====
+
+  npm install @mui/material @emotion/react @emotion/styled
+
+  Font:
+  =====
+
+  - Add the below into your index.html:
+    ===================================
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap"
+    />
+
+  Icon:
+  =====
+
+  npm install @mui/icons-material
+
+  Axios:
+  ======
+
+  * npm install Axios
+
+  yup:
+  ====
+
+  * npm install yup
+
+  formik:
+  =======
+
+  * npm install formik
+
+  router:
+  =======
+
+  * npm install react-dom-router@6
+
+  charts:
+  =======
+
+  * npm install chart.js react-chartjs-2
+
+  * npm install @faker-js/faker --save-dev
